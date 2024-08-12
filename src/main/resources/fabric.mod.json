@@ -6,7 +6,7 @@
 	"description": "Optimization that cleans end crystal entities upon break without waiting for the server.",
 	"authors": [
 		"Marlow",
-		"Selyss",
+		"Selyss"
 	],
 	"contact": {
 		"homepage": "",
